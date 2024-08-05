@@ -25,7 +25,7 @@ module.exports = () => {
         title: 'J.A.T.E.',
       }),
       new InjectManifest({
-        swSrc: './src/sw.js',
+        swSrc: './src-sw.js',
         swDest: 'src-sw.js'
       }),
       new WebpackPwaManifest({
@@ -59,8 +59,8 @@ module.exports = () => {
         use: {
           loader: 'babel-loader',
           options: {
-            presets: ['@babel/preset-env'],
-            plugins: ['@babel/plugin-transform-runtime, @babel/plugin-proposal-object-rest-spread'],
+            presets: ["@babel/preset-env"],
+            plugins: ["@babel/plugin-transform-runtime" ,"@babel/plugin-proposal-object-rest-spread"],
           }
         }}
       ]
