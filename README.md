@@ -175,16 +175,12 @@ npm install
 <!-- CONTRIBUTING -->
 ## Contributing
 
-If my project sparks your interest, please welcome yourself to contributing to our project. An open source community contributing is what builds inspiration and creativity. Any contributions you may make are greatly appreciated.
+<p>Starter code was provided by Bootcampspot, <br>
+you too can get the startedcode from: </p>
 
-If you have a suggestion that would help make this better, feel free to fork the repo and create a pull request. You can also simply open an issue with the tag "SuggestionX".
-Please do not forget to give the project a star! Thanks again!
+[https://github.com/coding-boot-camp/cautious-meme](https://github.com/coding-boot-camp/cautious-meme)
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/SuggestionX`)
-3. Commit your Changes (`git commit -m 'Add this suggestion please'`)
-4. Push to the Branch (`git push origin feature/SuggestionX`)
-5. Open a Pull Request
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
