@@ -176,7 +176,7 @@ npm install
 ## Contributing
 
 <p>Starter code was provided by Bootcampspot, <br>
-you too can get the startedcode from: </p>
+you too can get the starter code from: </p>
 
 [https://github.com/coding-boot-camp/cautious-meme](https://github.com/coding-boot-camp/cautious-meme)
 
