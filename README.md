@@ -27,7 +27,7 @@
 </div>
   </a>
 
-  <h3 align="center">My React Portfolio</h3>
+  <h3 align="center">J.A.T.E.</h3>
 
   <p align="center">
     J.A.T.E. (Just Another Text Editor)
